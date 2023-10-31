@@ -1,0 +1,54 @@
+body {
+	background-image: url("bgimgae.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+h1 {
+    background-color: #4b3154;
+	font-family: Garamond;
+	text-align: center;
+	padding: 10px 15px;
+	width: 95%;
+	opacity: 0.75;
+	border-radius: 30px;
+	color: #c86045
+}
+
+ul li a {
+	font-family: Perpetua;
+	font-size: 33px;	
+	color: #c86045;
+	text-decoration: none;
+	padding: 10px 15px;
+	margin-bottom:10px;
+	border: 1.5px solid #c86045;
+	border-radius: 30px;
+	display: auto;
+}
+
+ul li {
+	margin-top: 55px;
+	margin-bottom:55px;
+}
+
+p {
+	background-color: #4b3154;
+	font-size: 20px;
+	font-family: Garamond;
+	float: right;
+	padding: 10px 15px;
+	border-radius: 30px;
+	color: #c86045
+	
+}
+
+ul {
+	text-align: center;
+	color: black;
+}
+
+logo {
+	float: right;
+}
